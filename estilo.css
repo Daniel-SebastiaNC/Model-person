@@ -1,0 +1,47 @@
+*{
+	font-family: arial, sans-serif;
+}
+
+body{
+	background: #d2d2c1 url('imagens/fundo.png');
+
+}
+
+nav > a {
+	text-decoration: none;
+	font-weight: bold;
+	color: #192E45;
+}
+
+nav	{
+	text-align: left;
+	padding: 20px;
+	background: #81867C;
+}
+
+main {
+	background: white;
+	color:  black;
+	padding: 5px;
+
+}
+
+.conteudo{
+	width: 900px;
+	margin: 20px;
+}
+
+main > h1{
+	color: #81868C;
+}
+
+footer{
+	color: black;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.imagensBorder{
+	border: 15px #81868C solid;
+}
+
